@@ -1,0 +1,29 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Mac system files
+.DS_Store
+
+# Anaconda environments
+.conda/
+*.egg-info/
+
+# VS Code settings
+.vscode/
+
+# Data files (add exceptions manually if needed)
+*.csv
+*.xlsx
+*.json
+
+# Model files (large files)
+*.pkl
+*.h5
+*.pt
+*.pth
