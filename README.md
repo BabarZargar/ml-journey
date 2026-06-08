@@ -36,33 +36,33 @@ The foundation of every ML engineer. Covering the core data science stack before
 
 | Topic | Status |
 |-------|--------|
-| Arrays & Operations | ⬜ |
-| Indexing & Slicing | ⬜ |
-| Broadcasting | ⬜ |
-| Linear Algebra | ⬜ |
-| Random Module | ⬜ |
+| Arrays & Operations | ✅ |
+| Indexing & Slicing | ✅ |
+| Broadcasting | ✅ |
+| Linear Algebra | ✅ |
+| Random Module | ✅ |
 
 ### 🐼 Pandas
 > Data loading, cleaning, manipulation and analysis
 
 | Topic | Status |
 |-------|--------|
-| Series & DataFrames | ⬜ |
-| Reading CSV/Excel files | ⬜ |
-| Data Cleaning | ⬜ |
-| GroupBy & Aggregation | ⬜ |
-| Merging & Joining | ⬜ |
+| Series & DataFrames | ✅ |
+| Reading CSV/Excel files | ✅ |
+| Data Cleaning | ✅ |
+| GroupBy & Aggregation | ✅ |
+| Merging & Joining | ✅ |
 
 ### 📊 Matplotlib
 > Data visualization and plotting
 
 | Topic | Status |
 |-------|--------|
-| Line & Bar Charts | ⬜ |
+| Line & Bar Charts | ✅ |
 | Scatter Plots | ⬜ |
 | Histograms | ⬜ |
 | Subplots | ⬜ |
-| Styling & Customization | ⬜ |
+| Styling & Customization | ✅ |
 
 ---
 
