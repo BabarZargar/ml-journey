@@ -20,8 +20,8 @@ This repository documents my entire learning journey — every notebook, every c
 ## 🗺️ Roadmap
 
 ```
-Phase 1 — Python Libraries        ██████████░░░░░░░░░░  In Progress
-Phase 2 — ML Specialization       ░░░░░░░░░░░░░░░░░░░░  Not Started
+Phase 1 — Python Libraries        ████████████████████  Completed
+Phase 2 — ML Specialization       ██████████░░░░░░░░░░  Week 2
 Phase 3 — Projects & Applications ░░░░░░░░░░░░░░░░░░░░  Not Started
 ```
 
@@ -39,8 +39,9 @@ The foundation of every ML engineer. Covering the core data science stack before
 | Arrays & Operations | ✅ |
 | Indexing & Slicing | ✅ |
 | Broadcasting | ✅ |
-| Linear Algebra | ✅ |
+| Multidimensional Arrays | ✅ |
 | Random Module | ✅ |
+| Filtering | ✅ |
 
 ### 🐼 Pandas
 > Data loading, cleaning, manipulation and analysis
@@ -50,19 +51,23 @@ The foundation of every ML engineer. Covering the core data science stack before
 | Series & DataFrames | ✅ |
 | Reading CSV/Excel files | ✅ |
 | Data Cleaning | ✅ |
-| GroupBy & Aggregation | ✅ |
-| Merging & Joining | ✅ |
+| Aggregation | ✅ |
+| Filtering | ✅ |
+| Importing | ✅ |
+| Selection | ✅ |
 
 ### 📊 Matplotlib
 > Data visualization and plotting
 
 | Topic | Status |
 |-------|--------|
-| Line & Bar Charts | ✅ |
-| Scatter Plots | ⬜ |
-| Histograms | ⬜ |
-| Subplots | ⬜ |
+| Bar & Pie Charts | ✅ |
+| Labels and Grid Lines | ✅ |
+| Scatter Plots | ✅ |
+| Histograms | ✅ |
+| Subplots | ✅ |
 | Styling & Customization | ✅ |
+| Matplotlib with Pandas | ✅ |
 
 ---
 
@@ -72,9 +77,9 @@ The foundation of every ML engineer. Covering the core data science stack before
 ### Course 1 — Supervised Machine Learning
 | Topic | Status |
 |-------|--------|
-| Linear Regression | ⬜ |
+| Linear Regression | ✅ |
+| Gradient Descent | ✅ |
 | Logistic Regression | ⬜ |
-| Gradient Descent | ⬜ |
 | Regularization | ⬜ |
 
 ### Course 2 — Advanced Learning Algorithms
@@ -152,7 +157,7 @@ ml-journey/
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/babarzargar95)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/babar-zargar-1b28a7298/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/BabarZargar)
 
 ---
